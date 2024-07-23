@@ -47,16 +47,16 @@ Execute the Python script:
 
 ## Features
 - Legendary vs Non-Legendary Pokemon:
-    -Count and visualize the number of legendary and non-legendary Pokemon.
+    - Count and visualize the number of legendary and non-legendary Pokemon.
 
--Pokemon Attributes Analysis:
-    -Find Pokemon with the highest and lowest HP, Attack, Defense, Sp. Atk, Sp. Def, and Speed.
+- Pokemon Attributes Analysis:
+    - Find Pokemon with the highest and lowest HP, Attack, Defense, Sp. Atk, Sp. Def, and Speed.
 
--Generation Distribution:
-    -Visualize the distribution of Pokemon across different generations.
+- Generation Distribution:
+    - Visualize the distribution of Pokemon across different generations.
 
--Type Analysis:
-    -Analyze and visualize Pokemon types, including Type 1 and Type 2, and find Pokemon with the highest total stats for combined types.
+- Type Analysis:
+    - Analyze and visualize Pokemon types, including Type 1 and Type 2, and find Pokemon with the highest total stats for combined types.
 
 ## Analysis
 
