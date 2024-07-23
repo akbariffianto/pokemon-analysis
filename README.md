@@ -82,4 +82,4 @@ Execute the Python script:
 
 ## Presentation
 
-[Presentation](https://github.com) See here for the full content of the presentation.
+[Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7221569065734000640/) See here for the full content of the presentation.
